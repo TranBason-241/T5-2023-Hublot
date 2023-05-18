@@ -54,3 +54,36 @@
     font-style: normal;
     font-display: swap;
 }
+
+@font-face {
+    font-family: "Lexend Deca";
+    src: url("../fonts/LexendDeca-Bold.eot");
+    src: url("../fonts/LexendDeca-Bold.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/LexendDeca-Bold.woff2") format("woff2"), url("../fonts/LexendDeca-Bold.woff") format("woff"),
+        url("../fonts/LexendDeca-Bold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Lexend Deca";
+    src: url("../fonts/LexendDeca-Light.eot");
+    src: url("../fonts/LexendDeca-Light.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/LexendDeca-Light.woff2") format("woff2"), url("../fonts/LexendDeca-Light.woff") format("woff"),
+        url("../fonts/LexendDeca-Light.ttf") format("truetype");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Lexend Deca";
+    src: url("../fonts/LexendDeca-Regular.eot");
+    src: url("../fonts/LexendDeca-Regular.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/LexendDeca-Regular.woff2") format("woff2"), url("../fonts/LexendDeca-Regular.woff") format("woff"),
+        url("../fonts/LexendDeca-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
